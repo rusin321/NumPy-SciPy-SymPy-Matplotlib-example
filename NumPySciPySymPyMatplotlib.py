@@ -178,7 +178,7 @@ t_min = 0.0001
 
 
 escape_point = []
-range_T = np.logspace(-2, 2.5, base = 10, num = 10)
+range_T = np.logspace(-2, 2.5, base = 10, num = 100)
 range_e = np.linspace(0.1, 0.9, 9)
 i = 1
 
