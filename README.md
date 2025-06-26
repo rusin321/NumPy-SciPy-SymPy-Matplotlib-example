@@ -1,4 +1,4 @@
-# NumPy/SciPy/SymPy/Matplotlib example
+# Bounce equation escape point plot
 
 This code takes some specific potential found in Quantum Field Theory given as
 
